@@ -1,5 +1,6 @@
 #Rscript
 #Author: Yunlong Ma
+#@@E-mail: glb-biotech@zju.edu.cn
 #Co-expression patterns by using the Pearson correlation analysis
 
 
